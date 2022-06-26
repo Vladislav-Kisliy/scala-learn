@@ -1,0 +1,6 @@
+{
+	"firstName": "Vasya",
+	"lastName": "Pupkin",
+	"roles": [{"$type": "Reader"}],
+	"age": 64
+}

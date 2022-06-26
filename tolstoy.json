@@ -1,0 +1,11 @@
+{
+	"name": "Anna Karenina",
+	"isbn": "B0023EFB1O",
+	"Author": {
+		"name": "Leo",
+		"surname": "Tolstoy"
+	},
+	"genres": [],
+	"publishYear": 2004,
+	"pages": 864
+}
