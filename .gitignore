@@ -2,3 +2,10 @@
 .idea
 *.class
 *.log
+
+# Created by .ignore support plugin (hsz.mobi)
+dist/
+logs/
+classes/
+target/
+
